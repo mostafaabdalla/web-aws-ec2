@@ -20,5 +20,5 @@
 
 ## Screenshots
 
-![App Screenshot](project3)
+![App Screenshot](project3.png)
 
